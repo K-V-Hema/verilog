@@ -1,10 +1,10 @@
 # verilog
 
-Overview
+**Overview**:
 
 This repository contains a collection of Verilog HDL modules covering a wide range of basic digital design concepts and small projects. The aim is to provide reusable Verilog code for educational purposes, design verification practice, and as building blocks for larger systems.
 
-What’s Inside
+**What’s Inside**:
 
 The repository includes modules and testbenches for the following categories:
 
